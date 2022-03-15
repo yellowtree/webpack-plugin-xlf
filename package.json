@@ -1,6 +1,6 @@
 {
   "name": "@yellowtree/webpack-plugin-xlf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate XLF-files from JSON using webpack",
   "main": "dist/index.js",
   "license": "MIT",

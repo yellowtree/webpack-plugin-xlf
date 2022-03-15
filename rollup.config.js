@@ -32,5 +32,6 @@ export default {
     dir: 'dist',
     format: 'cjs',
     sourcemap: true
-  }
+  },
+  external: ['glob', 'webpack', 'path', 'fs']
 }
